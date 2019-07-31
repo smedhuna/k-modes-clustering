@@ -1,0 +1,526 @@
+Survey_ID,Gender,Marital_Status,BMI,Children_Count,Smoker,Existing_Health_Insurance,Physical_disability,Illness,F_Illness,Age_Group,Cluster
+S0000,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",6
+S0001,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0002,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0003,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0004,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0005,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0006,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0007,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0008,Female,Married,18.5 - 24.9 Normal,1,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0009,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0010,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0011,Female,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0012,Male,Married,25 - 29.9 Overweight,1,No,Never,No,N,N,"(20.0, 30.0]",1
+S0013,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0014,Female,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0015,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0016,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(50.0, 60.0]",7
+S0017,Male,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0018,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0019,Female,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,Y,"(0.0, 20.0]",7
+S0020,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0021,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",Yes,N,N,"(20.0, 30.0]",2
+S0022,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",2
+S0023,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0024,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0025,Male,Married,25 - 29.9 Overweight,1,No,Never,No,Y,N,"(30.0, 40.0]",4
+S0026,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0027,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0028,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",1
+S0029,Male,Married,18.5 - 24.9 Normal,0,"Past smoker, but not anymore","Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0030,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0031,Male,Single,18.5 - 24.9 Normal,0,Yes,Never,No,N,Y,"(20.0, 30.0]",0
+S0032,Female,Single,> 30 Obese,1,No,"Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0033,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0034,Male,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0035,Male,Single,< 18.5 Underweight,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0036,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0037,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0038,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0039,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0040,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(0.0, 20.0]",3
+S0041,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0042,Female,Married,> 30 Obese,0,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0043,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(0.0, 20.0]",1
+S0044,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0045,Male,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0046,Female,Married,25 - 29.9 Overweight,1,No,Never,No,N,N,"(30.0, 40.0]",4
+S0047,Female,Married,25 - 29.9 Overweight,1,No,"Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",4
+S0048,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0049,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0050,Female,Married,> 30 Obese,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0051,Female,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0052,Female,Single,25 - 29.9 Overweight,More than 2,No,"Yes, but not active anymore",No,Y,Y,"(60.0, 100.0]",5
+S0053,Male,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0054,Male,Married,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0055,Male,Married,18.5 - 24.9 Normal,More than 2,No,"Yes, it is active now",No,Y,Y,"(60.0, 100.0]",1
+S0056,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0057,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0058,Male,Married,18.5 - 24.9 Normal,1,No,Never,No,N,N,"(20.0, 30.0]",1
+S0059,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore",Never,No,Y,Y,"(40.0, 50.0]",6
+S0060,Male,Single,25 - 29.9 Overweight,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0061,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0062,Male,Married,18.5 - 24.9 Normal,1,Yes,"Yes, it is active now",No,N,N,"(50.0, 60.0]",0
+S0063,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",4
+S0064,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0065,Female,Single,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",4
+S0066,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,N,"(50.0, 60.0]",4
+S0067,Female,Married,18.5 - 24.9 Normal,2,No,Never,No,Y,Y,"(20.0, 30.0]",7
+S0068,Female,Married,18.5 - 24.9 Normal,2,No,Never,No,N,Y,"(30.0, 40.0]",4
+S0069,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0070,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0071,Female,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",7
+S0072,Female,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(0.0, 20.0]",2
+S0073,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0074,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0075,Male,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0076,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0077,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0078,Female,Married,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0079,Male,Married,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",1
+S0080,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",7
+S0081,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0082,Male,Married,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(30.0, 40.0]",1
+S0083,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",1
+S0084,Female,Married,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0085,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0086,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0087,Male,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,Y,"(40.0, 50.0]",1
+S0088,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",4
+S0089,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0090,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0091,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0092,Male,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",6
+S0093,Female,Married,> 30 Obese,2,No,"Yes, it is active now",No,N,Y,"(50.0, 60.0]",7
+S0094,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0095,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0096,Female,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0097,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0098,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0099,Male,Single,> 30 Obese,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0100,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",7
+S0101,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0102,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0103,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0104,Female,Married,> 30 Obese,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0105,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,N,"(20.0, 30.0]",7
+S0106,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0107,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0108,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0109,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0110,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,Y,"(20.0, 30.0]",7
+S0111,Male,Married,25 - 29.9 Overweight,1,"Past smoker, but not anymore","Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0112,Female,Married,25 - 29.9 Overweight,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0113,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0114,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0115,Male,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",1
+S0116,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0117,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0118,Female,Married,25 - 29.9 Overweight,1,No,"Yes, but not active anymore",No,N,N,"(50.0, 60.0]",4
+S0119,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0120,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0121,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0122,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",1
+S0123,Female,Married,25 - 29.9 Overweight,2,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0124,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,Y,Y,"(20.0, 30.0]",1
+S0125,Male,Single,25 - 29.9 Overweight,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0126,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0127,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0128,Female,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0129,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,Y,"(20.0, 30.0]",1
+S0130,Female,Married,18.5 - 24.9 Normal,More than 2,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",4
+S0131,Male,Married,< 18.5 Underweight,0,No,Never,No,N,N,"(20.0, 30.0]",1
+S0132,Female,Married,> 30 Obese,0,No,"Yes, but not active anymore",No,Y,N,"(20.0, 30.0]",5
+S0133,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0134,Male,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0135,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,Y,Y,"(20.0, 30.0]",1
+S0136,Female,Married,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0137,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0138,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,N,"(40.0, 50.0]",4
+S0139,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0140,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0141,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0142,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,N,Y,"(40.0, 50.0]",1
+S0143,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,N,"(30.0, 40.0]",4
+S0144,Male,Single,18.5 - 24.9 Normal,0,Yes,Never,No,N,N,"(20.0, 30.0]",0
+S0145,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0146,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0147,Other,Married,< 18.5 Underweight,More than 2,Yes,"Yes, it is active now",Yes,Y,Y,"(60.0, 100.0]",6
+S0148,Female,Single,< 18.5 Underweight,0,"Past smoker, but not anymore",Never,Yes,Y,Y,"(50.0, 60.0]",3
+S0149,Female,Married,25 - 29.9 Overweight,More than 2,No,"Yes, but not active anymore",No,Y,Y,"(50.0, 60.0]",6
+S0150,Female,Single,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",Yes,Y,Y,"(50.0, 60.0]",6
+S0151,Other,Single,> 30 Obese,More than 2,Yes,Never,No,N,N,"(20.0, 30.0]",0
+S0152,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0153,Female,Married,< 18.5 Underweight,1,"Past smoker, but not anymore",Never,Yes,N,N,"(20.0, 30.0]",3
+S0154,Female,Single,> 30 Obese,0,Yes,Never,No,N,N,"(20.0, 30.0]",3
+S0155,Male,Single,18.5 - 24.9 Normal,More than 2,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",6
+S0156,Other,Single,< 18.5 Underweight,More than 2,Yes,"Yes, it is active now",Yes,Y,Y,"(20.0, 30.0]",0
+S0157,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",4
+S0158,Male,Married,< 18.5 Underweight,2,Yes,Never,Yes,Y,Y,"(40.0, 50.0]",6
+S0159,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0160,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0161,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0162,Female,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0163,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(40.0, 50.0]",1
+S0164,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0165,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0166,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0167,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,N,Y,"(30.0, 40.0]",1
+S0168,Male,Married,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0169,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0170,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0171,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0172,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",Yes,Y,N,"(50.0, 60.0]",4
+S0173,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0174,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0175,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0176,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",4
+S0177,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0178,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0179,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0180,Female,Married,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0181,Male,Married,25 - 29.9 Overweight,1,"Past smoker, but not anymore","Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0182,Male,Single,> 30 Obese,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0183,Female,Married,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0184,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0185,Male,Married,25 - 29.9 Overweight,1,No,Never,No,N,N,"(30.0, 40.0]",4
+S0186,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0187,Male,Married,25 - 29.9 Overweight,More than 2,"Past smoker, but not anymore","Yes, it is active now",Yes,Y,Y,"(30.0, 40.0]",6
+S0188,Female,Single,25 - 29.9 Overweight,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0189,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0190,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,N,"(20.0, 30.0]",2
+S0191,Male,Married,25 - 29.9 Overweight,1,No,"Yes, but not active anymore",No,N,N,"(50.0, 60.0]",4
+S0192,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0193,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(40.0, 50.0]",2
+S0194,Male,Married,> 30 Obese,2,No,Never,No,N,N,"(60.0, 100.0]",1
+S0195,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0196,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",1
+S0197,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0198,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0199,Female,Married,> 30 Obese,2,No,"Yes, but not active anymore",No,N,N,"(40.0, 50.0]",4
+S0200,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0201,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0202,Male,Married,< 18.5 Underweight,1,"Past smoker, but not anymore","Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0203,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0204,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0205,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0206,Male,Married,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",No,Y,N,"(40.0, 50.0]",6
+S0207,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0208,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0209,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0210,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",1
+S0211,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0212,Male,Single,25 - 29.9 Overweight,0,No,"Yes, but not active anymore",No,Y,N,"(20.0, 30.0]",2
+S0213,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0214,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",1
+S0215,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(40.0, 50.0]",1
+S0216,Male,Married,18.5 - 24.9 Normal,2,Yes,"Yes, it is active now",No,Y,N,"(60.0, 100.0]",0
+S0217,Male,Single,25 - 29.9 Overweight,0,Yes,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",0
+S0218,Female,Married,25 - 29.9 Overweight,More than 2,No,"Yes, it is active now",No,Y,N,"(50.0, 60.0]",4
+S0219,Other,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",1
+S0220,Female,Married,18.5 - 24.9 Normal,More than 2,No,"Yes, it is active now",No,N,Y,"(50.0, 60.0]",7
+S0221,Female,Single,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",6
+S0222,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",Yes,N,N,"(40.0, 50.0]",0
+S0223,Male,Married,> 30 Obese,More than 2,Yes,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",6
+S0224,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,Y,N,"(50.0, 60.0]",4
+S0225,Male,Single,25 - 29.9 Overweight,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0226,Male,Married,25 - 29.9 Overweight,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(50.0, 60.0]",6
+S0227,Male,Single,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0228,Male,Married,> 30 Obese,More than 2,Yes,"Yes, it is active now",Yes,Y,Y,"(40.0, 50.0]",6
+S0229,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(60.0, 100.0]",1
+S0230,Female,Married,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,Y,"(40.0, 50.0]",7
+S0231,Female,Single,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(50.0, 60.0]",4
+S0232,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0233,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0234,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",4
+S0235,Female,Married,18.5 - 24.9 Normal,2,Yes,Never,No,Y,Y,"(60.0, 100.0]",6
+S0236,Female,Single,< 18.5 Underweight,0,No,"Yes, but not active anymore",No,N,Y,"(20.0, 30.0]",5
+S0237,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",Yes,Y,Y,"(40.0, 50.0]",1
+S0238,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",1
+S0239,Female,Married,18.5 - 24.9 Normal,More than 2,No,"Yes, but not active anymore",No,Y,Y,"(60.0, 100.0]",7
+S0240,Male,Married,> 30 Obese,2,"Past smoker, but not anymore",Never,No,Y,Y,"(40.0, 50.0]",6
+S0241,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",4
+S0242,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",6
+S0243,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,Y,N,"(40.0, 50.0]",4
+S0244,Female,Single,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,N,Y,"(20.0, 30.0]",5
+S0245,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,Y,N,"(60.0, 100.0]",4
+S0246,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",6
+S0247,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0248,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,Y,N,"(30.0, 40.0]",4
+S0249,Female,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0250,Female,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(30.0, 40.0]",4
+S0251,Male,Married,18.5 - 24.9 Normal,1,Yes,"Yes, but not active anymore",No,Y,Y,"(30.0, 40.0]",6
+S0252,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",1
+S0253,Male,Single,> 30 Obese,2,"Past smoker, but not anymore","Yes, it is active now",Yes,Y,Y,"(30.0, 40.0]",6
+S0254,Female,Married,25 - 29.9 Overweight,1,Yes,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0255,Male,Married,25 - 29.9 Overweight,1,No,Never,No,Y,N,"(30.0, 40.0]",4
+S0256,Female,Married,25 - 29.9 Overweight,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(30.0, 40.0]",6
+S0257,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, but not active anymore",Yes,N,N,"(30.0, 40.0]",4
+S0258,Female,Single,< 18.5 Underweight,1,No,Never,No,Y,Y,"(30.0, 40.0]",3
+S0259,Male,Single,> 30 Obese,0,No,"Yes, but not active anymore",No,N,N,"(30.0, 40.0]",2
+S0260,Male,Married,18.5 - 24.9 Normal,1,No,Never,No,N,N,"(40.0, 50.0]",4
+S0261,Male,Married,25 - 29.9 Overweight,1,Yes,"Yes, it is active now",Yes,N,Y,"(40.0, 50.0]",1
+S0262,Female,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,Y,N,"(20.0, 30.0]",2
+S0263,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,N,"(40.0, 50.0]",1
+S0264,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,Y,N,"(40.0, 50.0]",2
+S0265,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0266,Male,Married,> 30 Obese,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0267,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",4
+S0268,Male,Married,> 30 Obese,More than 2,Yes,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",6
+S0269,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",Yes,Y,Y,"(40.0, 50.0]",4
+S0270,Male,Single,25 - 29.9 Overweight,0,Yes,"Yes, it is active now",No,Y,N,"(40.0, 50.0]",0
+S0271,Female,Single,< 18.5 Underweight,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0272,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0273,Male,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0274,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",7
+S0275,Male,Married,18.5 - 24.9 Normal,More than 2,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,Y,"(60.0, 100.0]",6
+S0276,Male,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,N,"(0.0, 20.0]",2
+S0277,Male,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",2
+S0278,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0279,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",4
+S0280,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0281,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0282,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0283,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,N,Y,"(40.0, 50.0]",4
+S0284,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0285,Female,Single,< 18.5 Underweight,0,No,"Yes, it is active now",No,N,N,"(0.0, 20.0]",2
+S0286,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0287,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(40.0, 50.0]",5
+S0288,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0289,Male,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,Y,N,"(30.0, 40.0]",6
+S0290,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0291,Male,Single,< 18.5 Underweight,0,No,Never,No,N,Y,"(0.0, 20.0]",1
+S0292,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0293,Male,Married,25 - 29.9 Overweight,More than 2,Yes,Never,Yes,Y,Y,"(40.0, 50.0]",6
+S0294,Female,Single,18.5 - 24.9 Normal,0,No,Never,Yes,N,N,"(0.0, 20.0]",3
+S0295,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(0.0, 20.0]",3
+S0296,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(0.0, 20.0]",2
+S0297,Female,Married,25 - 29.9 Overweight,More than 2,No,"Yes, it is active now",No,Y,N,"(60.0, 100.0]",4
+S0298,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",7
+S0299,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0300,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0301,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,Y,Y,"(60.0, 100.0]",7
+S0302,Male,Married,18.5 - 24.9 Normal,0,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",1
+S0303,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,Y,N,"(60.0, 100.0]",4
+S0304,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0305,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0306,Female,Married,> 30 Obese,0,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",4
+S0307,Male,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",1
+S0308,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,Y,N,"(20.0, 30.0]",3
+S0309,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0310,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0311,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",4
+S0312,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0313,Male,Married,18.5 - 24.9 Normal,2,No,Never,No,N,Y,"(30.0, 40.0]",1
+S0314,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,Y,"(50.0, 60.0]",1
+S0315,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,N,Y,"(30.0, 40.0]",6
+S0316,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(0.0, 20.0]",2
+S0317,Female,Married,> 30 Obese,2,No,"Yes, it is active now",No,Y,N,"(20.0, 30.0]",4
+S0318,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0319,Female,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0320,Female,Married,18.5 - 24.9 Normal,1,No,Never,No,N,N,"(20.0, 30.0]",3
+S0321,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0322,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0323,Male,Married,25 - 29.9 Overweight,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0324,Female,Married,18.5 - 24.9 Normal,1,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0325,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0326,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,N,"(20.0, 30.0]",0
+S0327,Male,Married,18.5 - 24.9 Normal,1,No,Never,No,N,Y,"(30.0, 40.0]",1
+S0328,Female,Married,25 - 29.9 Overweight,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(20.0, 30.0]",6
+S0329,Male,Married,25 - 29.9 Overweight,More than 2,Yes,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",6
+S0330,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0331,Male,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(20.0, 30.0]",2
+S0332,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0333,Male,Married,18.5 - 24.9 Normal,More than 2,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0334,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0335,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(50.0, 60.0]",4
+S0336,Male,Single,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(30.0, 40.0]",0
+S0337,Male,Married,25 - 29.9 Overweight,1,"Past smoker, but not anymore","Yes, but not active anymore",No,N,N,"(30.0, 40.0]",4
+S0338,Female,Married,> 30 Obese,2,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0339,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",2
+S0340,Male,Single,25 - 29.9 Overweight,0,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,N,"(50.0, 60.0]",0
+S0341,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,Y,Y,"(0.0, 20.0]",0
+S0342,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, but not active anymore",No,Y,N,"(0.0, 20.0]",0
+S0343,Male,Single,< 18.5 Underweight,0,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0344,Male,Married,> 30 Obese,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0345,Male,Married,18.5 - 24.9 Normal,2,Yes,"Yes, it is active now",No,Y,N,"(50.0, 60.0]",0
+S0346,Female,Married,25 - 29.9 Overweight,2,No,"Yes, it is active now",No,Y,N,"(50.0, 60.0]",4
+S0347,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,Y,N,"(60.0, 100.0]",1
+S0348,Male,Married,18.5 - 24.9 Normal,1,No,Never,No,N,N,"(30.0, 40.0]",4
+S0349,Female,Married,18.5 - 24.9 Normal,1,No,Never,No,N,Y,"(20.0, 30.0]",7
+S0350,Female,Married,25 - 29.9 Overweight,2,No,Never,No,Y,N,"(40.0, 50.0]",3
+S0351,Male,Married,25 - 29.9 Overweight,2,"Past smoker, but not anymore",Never,No,Y,Y,"(50.0, 60.0]",6
+S0352,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, but not active anymore",No,N,N,"(20.0, 30.0]",0
+S0353,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0354,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0355,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0356,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0357,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0358,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0359,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0360,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0361,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0362,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0363,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0364,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0365,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0366,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0367,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0368,Male,Married,18.5 - 24.9 Normal,1,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0369,Male,Married,18.5 - 24.9 Normal,1,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0370,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0371,Male,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0372,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0373,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0374,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0375,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0376,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0377,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0378,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0379,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",0
+S0380,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0381,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0382,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0383,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0384,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0385,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0386,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0387,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0388,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0389,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0390,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0391,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",1
+S0392,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0393,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0394,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0395,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0396,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0397,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0398,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0399,Female,Married,18.5 - 24.9 Normal,0,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0400,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0401,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0402,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0403,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0404,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0405,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0406,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(20.0, 30.0]",7
+S0407,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0408,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0409,Female,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0410,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0411,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0412,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0413,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0414,Female,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",4
+S0415,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0416,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0417,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0418,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0419,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0420,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0421,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0422,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0423,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0424,Male,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",2
+S0425,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0426,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0427,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0428,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0429,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0430,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0431,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0432,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0433,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0434,Female,Single,18.5 - 24.9 Normal,0,No,"Yes, but not active anymore",No,N,N,"(20.0, 30.0]",5
+S0435,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0436,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0437,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0438,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0439,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0440,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,N,"(20.0, 30.0]",0
+S0441,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0442,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0443,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0444,Male,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore",Never,No,N,Y,"(20.0, 30.0]",0
+S0445,Male,Married,18.5 - 24.9 Normal,0,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(30.0, 40.0]",6
+S0446,Male,Married,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",No,N,Y,"(40.0, 50.0]",6
+S0447,Male,Married,18.5 - 24.9 Normal,More than 2,No,"Yes, but not active anymore",No,N,Y,"(60.0, 100.0]",1
+S0448,Female,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(30.0, 40.0]",4
+S0449,Female,Single,18.5 - 24.9 Normal,2,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0450,Female,Single,25 - 29.9 Overweight,0,No,Never,No,Y,N,"(20.0, 30.0]",3
+S0451,Male,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0452,Male,Single,25 - 29.9 Overweight,0,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,Y,"(30.0, 40.0]",6
+S0453,Male,Married,25 - 29.9 Overweight,2,No,"Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",6
+S0454,Female,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, but not active anymore",Yes,Y,Y,"(50.0, 60.0]",6
+S0455,Female,Married,18.5 - 24.9 Normal,2,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,N,"(30.0, 40.0]",4
+S0456,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0457,Female,Married,25 - 29.9 Overweight,2,No,"Yes, but not active anymore",No,Y,N,"(30.0, 40.0]",4
+S0458,Female,Single,18.5 - 24.9 Normal,1,No,"Yes, but not active anymore",No,Y,Y,"(20.0, 30.0]",5
+S0459,Female,Married,18.5 - 24.9 Normal,1,No,Never,No,Y,Y,"(40.0, 50.0]",4
+S0460,Female,Single,< 18.5 Underweight,0,No,Never,No,N,Y,"(20.0, 30.0]",3
+S0461,Female,Married,> 30 Obese,2,No,"Yes, but not active anymore",Yes,Y,Y,"(40.0, 50.0]",6
+S0462,Female,Single,< 18.5 Underweight,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0463,Male,Married,25 - 29.9 Overweight,More than 2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0464,Male,Married,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",No,Y,N,"(30.0, 40.0]",6
+S0465,Male,Married,25 - 29.9 Overweight,2,"Past smoker, but not anymore","Yes, but not active anymore",No,N,Y,"(40.0, 50.0]",6
+S0466,Female,Single,18.5 - 24.9 Normal,0,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(20.0, 30.0]",0
+S0467,Female,Single,18.5 - 24.9 Normal,0,No,Never,No,N,N,"(30.0, 40.0]",3
+S0468,Male,Married,25 - 29.9 Overweight,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,N,"(30.0, 40.0]",6
+S0469,Male,Married,25 - 29.9 Overweight,1,"Past smoker, but not anymore",Never,No,N,Y,"(30.0, 40.0]",6
+S0470,Male,Single,18.5 - 24.9 Normal,0,Yes,Never,No,Y,N,"(20.0, 30.0]",0
+S0471,Male,Married,25 - 29.9 Overweight,2,Yes,"Yes, it is active now",No,N,Y,"(50.0, 60.0]",6
+S0472,Male,Single,18.5 - 24.9 Normal,0,Yes,Never,Yes,N,N,"(30.0, 40.0]",0
+S0473,Male,Married,25 - 29.9 Overweight,1,No,"Yes, but not active anymore",No,N,Y,"(30.0, 40.0]",1
+S0474,Female,Single,18.5 - 24.9 Normal,0,Yes,Never,No,N,N,"(30.0, 40.0]",3
+S0475,Female,Married,25 - 29.9 Overweight,1,No,"Yes, it is active now",No,N,N,"(60.0, 100.0]",4
+S0476,Male,Single,25 - 29.9 Overweight,0,No,Never,No,N,N,"(30.0, 40.0]",2
+S0477,Male,Married,25 - 29.9 Overweight,1,Yes,Never,No,Y,N,"(30.0, 40.0]",6
+S0478,Female,Single,25 - 29.9 Overweight,0,Yes,"Yes, it is active now",No,N,Y,"(30.0, 40.0]",0
+S0479,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, but not active anymore",No,N,Y,"(60.0, 100.0]",1
+S0480,Male,Married,18.5 - 24.9 Normal,2,Yes,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0481,Male,Married,18.5 - 24.9 Normal,2,Yes,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",6
+S0482,Male,Married,< 18.5 Underweight,2,"Past smoker, but not anymore","Yes, but not active anymore",Yes,N,N,"(50.0, 60.0]",6
+S0483,Male,Single,25 - 29.9 Overweight,0,Yes,"Yes, it is active now",No,Y,Y,"(40.0, 50.0]",0
+S0484,Male,Married,< 18.5 Underweight,2,"Past smoker, but not anymore","Yes, it is active now",No,Y,Y,"(60.0, 100.0]",6
+S0485,Male,Married,18.5 - 24.9 Normal,1,"Past smoker, but not anymore","Yes, but not active anymore",No,Y,Y,"(40.0, 50.0]",6
+S0486,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",0
+S0487,Female,Single,25 - 29.9 Overweight,0,No,Never,No,N,N,"(20.0, 30.0]",3
+S0488,Female,Married,18.5 - 24.9 Normal,0,No,Never,No,N,Y,"(30.0, 40.0]",7
+S0489,Male,Married,25 - 29.9 Overweight,0,"Past smoker, but not anymore","Yes, but not active anymore",Yes,N,N,"(40.0, 50.0]",0
+S0490,Male,Married,25 - 29.9 Overweight,More than 2,Yes,"Yes, it is active now",No,Y,Y,"(30.0, 40.0]",6
+S0491,Male,Married,25 - 29.9 Overweight,2,Yes,Never,No,N,Y,"(30.0, 40.0]",6
+S0492,Female,Married,25 - 29.9 Overweight,1,No,Never,No,N,Y,"(30.0, 40.0]",4
+S0493,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0494,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0495,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0496,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0497,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0498,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0499,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0500,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0501,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0502,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0503,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0504,Male,Single,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0505,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0506,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0507,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0508,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0509,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(20.0, 30.0]",0
+S0510,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0511,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0512,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0513,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",Yes,N,N,"(30.0, 40.0]",0
+S0514,Male,Married,18.5 - 24.9 Normal,0,Yes,"Yes, it is active now",No,N,N,"(30.0, 40.0]",0
+S0515,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0516,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0517,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0518,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0519,Male,Married,18.5 - 24.9 Normal,1,No,"Yes, it is active now",No,N,N,"(20.0, 30.0]",1
+S0520,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0521,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0522,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0523,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
+S0524,Male,Married,18.5 - 24.9 Normal,2,No,"Yes, it is active now",No,N,N,"(30.0, 40.0]",4
